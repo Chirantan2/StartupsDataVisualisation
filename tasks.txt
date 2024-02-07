@@ -20,7 +20,7 @@ Visualize data using Pandas, Matplotlib, Seaborn and Plotly.
 
 ✓    Compute the correlation matrix between R&D spend, administration spend, marketing spend, and profit. 
 
-    Visualize the correlation matrix using a heatmap. 
+✓    Visualize the correlation matrix using a heatmap. 
 
 ✓    Determine which expenditure (R&D, administration, or marketing) has the highest correlation with profit. 
 
